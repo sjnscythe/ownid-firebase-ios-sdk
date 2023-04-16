@@ -1,0 +1,16 @@
+PODS:
+  - ownid-firebase-ios-sdk (0.1.0)
+
+DEPENDENCIES:
+  - ownid-firebase-ios-sdk (from `../`)
+
+EXTERNAL SOURCES:
+  ownid-firebase-ios-sdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ownid-firebase-ios-sdk: 017a3f58b7046f429b15c5b843bf61ce0878b1ce
+
+PODFILE CHECKSUM: e79a823694cff5d4ae5dde56085988117e156dfd
+
+COCOAPODS: 1.12.0

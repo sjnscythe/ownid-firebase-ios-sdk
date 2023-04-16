@@ -1,0 +1,6 @@
+framework module ownid_firebase_ios_sdk {
+  umbrella header "ownid-firebase-ios-sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}
