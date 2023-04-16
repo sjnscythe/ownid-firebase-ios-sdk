@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'ownid-firebase-ios-sdk_Example' do
+  pod 'ownid-firebase-ios-sdk', :path => '../'
+
+  target 'ownid-firebase-ios-sdk_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
